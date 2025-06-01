@@ -92,5 +92,5 @@ dmypy.json
 cython_debug/
 
 # Data folder
-.data/
-.data/**
+data/
+data/**
